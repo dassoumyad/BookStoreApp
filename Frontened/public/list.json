@@ -1,0 +1,82 @@
+[
+    {
+      "id":1,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+      "price":0,
+      "category":"Free",
+      "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+      {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+      {
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":100,
+        "category":"",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+      {
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+    {
+        "id":6,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":20,
+        "category":"Funny",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+      {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+      {
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+      {
+        "id":9,
+        "name":"Food Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      },
+      {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/textbooks-book-day_24911-115208.jpg?t=st=1715655767~exp=1715659367~hmac=2a38b90cc9999e5b596d21d7dd1ea7cb863cd1c6e3c686078050c8993e8545de&w=740"
+      }
+]
