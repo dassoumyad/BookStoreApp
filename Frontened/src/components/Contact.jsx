@@ -1,12 +1,20 @@
 import React from 'react';
 import { useForm } from 'react-hook-form';
+import toast, { Toaster } from 'react-hot-toast';
+import axios from 'axios';
 
 const Contact = () => {
     const { register, handleSubmit, formState: { errors } } = useForm();
 
-    const onSubmit = (data) => {
-        console.log(data);
-        alert('Message sent successfully!');
+    const onSubmit = async (data) => {
+        try {
+            const response = await axios.post('http://localhost:4000/message', data); // Update URL as needed
+            console.log(response.data);
+            toast.success('Message sent successfully!');
+        } catch (error) {
+            console.error('Error sending message:', error);
+            toast.error('Failed to send message.');
+        }
     };
 
     return (
@@ -67,6 +75,7 @@ const Contact = () => {
                             </button>
                         </div>
                     </form>
+                    
                 </div>
             </div>
         </div>
