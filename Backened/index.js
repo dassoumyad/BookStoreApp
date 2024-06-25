@@ -2,8 +2,8 @@ import express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
-import bookRoute from "./routes/book_route.js"; // Assuming you have this route
-import userRoute from "./routes/user_route.js"; // Assuming you have this route
+import bookRoute from "./Routes/book_route.js"; // Assuming you have this route
+import userRoute from "./Routes/user_route.js"; // Assuming you have this route
 import messageRoute from "./Routes/messageRoute.js"; // Correcting the import path
 
 dotenv.config();
